@@ -5,7 +5,7 @@ int main(){
     printf("Enter A number :/n ");
     scanf("%d", &a);
 
-    printf("The Cube of Number is %d, a*a*a");
-    
+    printf("The Cube of Number is %d", a*a*a);
+
     return 0;
 }
