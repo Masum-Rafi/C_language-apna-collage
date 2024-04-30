@@ -5,6 +5,7 @@
         "HelloWorld.C": "cpp",
         "p.C": "cpp",
         "Input-output.C": "cpp",
-        "DataTypes.C": "cpp"
+        "DataTypes.C": "cpp",
+        "PrintSmallestNumbersofTwo.C": "cpp"
     }
 }
