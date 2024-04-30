@@ -4,6 +4,7 @@
         "Q1.C": "cpp",
         "HelloWorld.C": "cpp",
         "p.C": "cpp",
-        "Input-output.C": "cpp"
+        "Input-output.C": "cpp",
+        "DataTypes.C": "cpp"
     }
 }
