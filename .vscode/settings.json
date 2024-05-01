@@ -6,6 +6,9 @@
         "p.C": "cpp",
         "Input-output.C": "cpp",
         "DataTypes.C": "cpp",
-        "PrintSmallestNumbersofTwo.C": "cpp"
+        "PrintSmallestNumbersofTwo.C": "cpp",
+        "LogicalOperator.C": "cpp",
+        "LogicalOperatio.C": "cpp",
+        "ModuloOperator.C": "cpp"
     }
 }
