@@ -11,7 +11,7 @@ int main()
    printf("%.3f\n", 4 / 2.0);   // int / float = float
    printf("%.3f\n", 2.0 / 3);   // float / int = float
 
-   int a = (int)2.999999; // Explicite conversion
+   int a = (int)2.99999; // Explicite conversion
    printf("%d", a);
 
    return 0;
