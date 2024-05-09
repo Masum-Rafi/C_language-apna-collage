@@ -1,3 +1,4 @@
+// A program to Checking if A number Divisible By 2 Or Not
 #include <stdio.h>
 int main()
 {
