@@ -11,7 +11,7 @@ int main()
       printf("Adult\n");
       printf("He is Eligeble for vote\n");
    }
-   else if (age >= 13 && age <= 18)
+   else if (age >= 13 && age < 18)
    {
       printf("Teenager \n");
    }
