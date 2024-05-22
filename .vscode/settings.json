@@ -19,6 +19,7 @@
         "CheckifAnumberDivisibleBy2OrNot.C": "cpp",
         "CheckEvenOrOdd.C": "cpp",
         "AssignmentOperator.C": "cpp",
-        "ArithamaticOparation.C": "cpp"
+        "ArithamaticOparation.C": "cpp",
+        "Nestedcondition.C": "cpp"
     }
 }
