@@ -9,6 +9,16 @@
         "PrintSmallestNumbersofTwo.C": "cpp",
         "LogicalOperator.C": "cpp",
         "LogicalOperatio.C": "cpp",
-        "ModuloOperator.C": "cpp"
+        "ModuloOperator.C": "cpp",
+        "OparatorPrecedence.C": "cpp",
+        "PerecedenceEx.C": "cpp",
+        "RelationalOperator.C": "cpp",
+        "RelationalOparator.C": "cpp",
+        "TypeConvertion.C": "cpp",
+        "PrintTrue1AndFalse0ForSomeContions.C": "cpp",
+        "CheckifAnumberDivisibleBy2OrNot.C": "cpp",
+        "CheckEvenOrOdd.C": "cpp",
+        "AssignmentOperator.C": "cpp",
+        "ArithamaticOparation.C": "cpp"
     }
 }
