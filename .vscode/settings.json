@@ -20,6 +20,7 @@
         "CheckEvenOrOdd.C": "cpp",
         "AssignmentOperator.C": "cpp",
         "ArithamaticOparation.C": "cpp",
-        "Nestedcondition.C": "cpp"
+        "Nestedcondition.C": "cpp",
+        "ForLoopPrint0To10.C": "cpp"
     }
 }
