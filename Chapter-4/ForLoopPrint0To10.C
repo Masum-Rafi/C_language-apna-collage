@@ -1,4 +1,6 @@
-// print the number from 0 to 10
+// print the number from 0 to 10,
+// 0 to 10.0 and
+// a to z using for loop
 // 0 1 2 3 4 5 6 7 8 9 10
 
 #include <stdio.h>
@@ -10,8 +12,14 @@ int main()
    printf("\n\n");
    for (float j = 0.0; j <= 10.0; j++)
    {
-      printf("%.2f\t", j);
-
-      return 0;
+      printf("%.2f\n", j);
    }
+
+   printf("\n\n");
+   for (char Ch = 'a'; Ch <= 'z'; Ch++)
+   {
+      printf("%c\n", Ch);
+   }
+
+   return 0;
 }
