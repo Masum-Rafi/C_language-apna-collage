@@ -3,7 +3,7 @@ int main()
 {
    for (int i = 1; i <= 10; i++)
    {
-      if (i == 3) // skip
+      if (i == 10) // skip
       {
          continue;
       }
